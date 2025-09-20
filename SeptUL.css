@@ -9,6 +9,11 @@ body {
     justify-content: center;
     scrollbar-width: none
     }
+@media screen and (max-width: 959px) {
+body {
+    background-image: url(https://i.imgur.com/KUJHIUh.jpeg);
+        }
+    }
 html {
     scrollbar-width: none
     }
