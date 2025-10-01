@@ -345,6 +345,9 @@ html {
 .down img {
     margin-top: 3px;
 }
+.ul__Codex img {
+    content: url(https://images2.imgbox.com/ef/be/4DOLMQrw_o.png)
+    }
 .ul__Codex::after {
     background-image: url(https://grundoscafe.b-cdn.net/items/harris_robot.gif)
     }
