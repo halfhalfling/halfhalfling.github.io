@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css2?family=Creepster&display=swap);
 body {
     background: #000;
-    background-image: url(https://i.imgur.com/8ynupBN.jpeg);
+    background-image: url(https://images2.imgbox.com/71/28/pTKO6cW1_o.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-position: top center;
@@ -43,7 +43,7 @@ html {
     margin-left: auto;
     margin-right: auto;
     width: 696px;
-    content: url(https://i.imgur.com/zLl9Bbe.png);
+    content: url(https://images2.imgbox.com/91/68/haW36FbH_o.png);
     z-index: 20
     }
 .header2 {
@@ -52,7 +52,7 @@ html {
     margin-left: 100px;
     margin-right: auto;
     display: block;
-    background-image: url(https://i.imgur.com/GRF3FXF.png);
+    background-image: url(https://images2.imgbox.com/0f/4e/LOfkWRUQ_o.png);
     width: 716px;
     height: 735px;
     margin-bottom: -735px;
@@ -74,7 +74,7 @@ html {
     margin-left: -200px;
     margin-right: auto;
     display: block;
-    background-image: url(https://i.imgur.com/0MYtrHo.png);
+    background-image: url(https://images2.imgbox.com/51/05/tTd6P6g7_o.png);
     width: 815px;
     height: 797px;
     margin-bottom: -797px;
@@ -105,7 +105,7 @@ html {
     align-items: start;
     background-color: #fff;
     box-shadow: 0 1px 20px 0 #fff;
-    background-image: url(https://i.imgur.com/t0ZAoxH.png);
+    background-image: url(https://images2.imgbox.com/0b/04/OC11RUsb_o.png);
     background-repeat: no-repeat;
     background-position: bottom right;
     color: #31183E;
@@ -189,22 +189,22 @@ html {
     content: url(https://images.neopets.com/items/stamp_25thanni_shoyru.gif)
     }
 .ul--tradesimg {
-    content: url(https://i.imgur.com/TOr4iJ6.gif)
+    content: url(https://images2.imgbox.com/aa/ea/jEXikl7K_o.gif)
     }
 .ul--auctionsimg {
-    content: url(https://i.imgur.com/4K1hXLe.gif)
+    content: url(https://images2.imgbox.com/7a/a5/LYxQQCi0_o.gif)
     }
 .ul--wishlistimg {
-    content: url(https://i.imgur.com/VR0vT3I.gif)
+    content: url(https://images2.imgbox.com/13/fe/DaGsdLWs_o.gif)
     }
 .ul--scoresimg {
-    content: url(https://i.imgur.com/GPSbX8L.gif)
+    content: url(https://images2.imgbox.com/07/77/xMgNHT2R_o.gif)
     }
 .ul--neomailimg {
-    content: url(https://i.imgur.com/6G0r2tf.gif)
+    content: url(https://images2.imgbox.com/25/7d/ADqPPZ5H_o.gif)
     }
 .ul--neofriendimg {
-    background-image: url(https://i.imgur.com/lgnggI4.gif);
+    background-image: url(https://images2.imgbox.com/f5/57/mhk1if1R_o.gif);
     background-repeat: no-repeat;
     background-position: center;
     object-position: -9999px
@@ -343,7 +343,7 @@ html {
     width: 150px
     }
 .ul__Codex img, .ul__Vanasa img {
-    content: url(https://i.imgur.com/lEaNJ5S.png)
+    content: url(https://images2.imgbox.com/87/b7/iTYpJqoa_o.png)
     }
 .ul__Codex::after {
     background-image: url(https://grundoscafe.b-cdn.net/items/harris_robot.gif)
@@ -385,13 +385,13 @@ html {
     background-image: url(https://grundoscafe.b-cdn.net/items/spardel_faerie.gif)
     }
 .ul__Bix img {
-    content: url(https://i.imgur.com/DcVLY8m.png)
+    content: url(https://images2.imgbox.com/ba/8f/0WbWhNsz_o.png)
     }
 .ul__Bix::after {
     background-image: url(https://grundoscafe.b-cdn.net/items/pet_bluna.gif)
     }
 .ul__Shae img {
-    content: url(https://i.imgur.com/Ul0196o.gif)
+    content: url(https://images2.imgbox.com/92/eb/WuaoYroc_o.gif)
     }
 .ul__Shae::after {
     background-image: url(https://grundoscafe.b-cdn.net/items/spyder_faerie.gif)
@@ -401,9 +401,6 @@ html {
     }
 .ul__Teah::after {
     background-image: url(https://grundoscafe.b-cdn.net/items/angelpuss.gif)
-    }
-.ul__Clea img {
-    content: url(https://i.imgur.com/DiKpcTS.png)
     }
 .ul__Clea::after {
     background-image: url(https://grundoscafe.b-cdn.net/items/noil_maraquan.gif)
@@ -436,7 +433,7 @@ html {
     background-image: url(https://grundoscafe.b-cdn.net/items/rock_purple.gif)
     }
 .ul__Alix img {
-    content: url(https://i.imgur.com/13o1XFF.png)
+    content: url(https://images2.imgbox.com/ba/1c/DIBllIKG_o.png)
     }
 .ul__Alix::after {
     background-image: url(https://grundoscafe.b-cdn.net/items/meekins_green.gif)
@@ -460,7 +457,7 @@ html {
     background-image: url(https://grundoscafe.b-cdn.net/items/kadoatie_pink.gif)
     }
 .ul__Bailee img {
-    content: url(https://i.imgur.com/YGXSoz6.png)
+    content: url(https://images2.imgbox.com/65/96/42VZY58x_o.png)
     }
 .ul__Esse::after {
     background-image: url(https://grundoscafe.b-cdn.net/items/pets_huggy.gif)
@@ -523,7 +520,7 @@ html {
     background-image: url(https://grundoscafe.b-cdn.net/items/pets_blew.gif)
     }
 .ul__Vorm img {
-    content: url(https://i.imgur.com/y8O4Z6y.png)
+    content: url(https://images2.imgbox.com/a2/22/yYgKAHVH_o.png)
     }
 .ul__Vorm::after {
     background-image: url(https://grundoscafe.b-cdn.net/items/petpet_hornedfish.gif)
@@ -535,7 +532,7 @@ html {
     background-image: url(https://grundoscafe.b-cdn.net/items/bluna_faerie.gif)
     }
 .ul__Klip img {
-    content: url(https://i.imgur.com/3hD26Hp.png)
+    content: url(https://images2.imgbox.com/a3/18/zVU3kcqB_o.png)
     }
 .ul__Klip::after {
     background-image: url(https://grundoscafe.b-cdn.net/items/slorg_pink.gif)
@@ -633,9 +630,6 @@ html {
 .ul__Suey::after {
     background-image: url(https://grundoscafe.b-cdn.net/items/shocket_green.gif)
     }
-.ul__Kepley img {
-    content: url(https://i.imgur.com/ZsmgsfU.png)
-    }
 .ul__Vanasa::after {
     background-image: url(https://grundoscafe.b-cdn.net/items/turdle_robot.gif)
     }
@@ -682,7 +676,7 @@ html {
     background-image: url(https://grundoscafe.b-cdn.net/items/isl_petpet15.gif)
     }
 .ul__Matieu img {
-    content: url(https://i.imgur.com/mvrpCzi.png)
+    content: url(https://images2.imgbox.com/56/1b/Us424iuO_o.png)
     }
 .ul__Matieu::after {
     background-image: url(https://grundoscafe.b-cdn.net/items/pet_reptillior.gif)
@@ -696,14 +690,11 @@ html {
 .ul__Tid::after {
     background-image: url(https://grundoscafe.b-cdn.net/items/weewoo_pink.gif)
     }
-.ul__Hawley img {
-    content: url(https://i.imgur.com/PcN35VQ.png)
-    }
 .ul__Hawley::after {
     background-image: url(https://grundoscafe.b-cdn.net/items/petpet_robo_c.gif)
     }
 .ul__Belzer::after {
-    background-image: url(https://i.imgur.com/Nanis5j.gif)
+    background-image: url(https://images2.imgbox.com/ca/d7/uAwsCny5_o.png)
     }
 .ul__Erol::after {
     background-image: url(https://grundoscafe.b-cdn.net/items/drugal_darigan.gif)
@@ -727,7 +718,7 @@ html {
     background-image: url(https://grundoscafe.b-cdn.net/items/narwhool_blue.gif)
     }
 .ul__Alai img {
-    content: url(https://i.imgur.com/Vg0LfWz.png)
+    content: url(https://images2.imgbox.com/5d/33/YxYdaelk_o.png)
     }
 .ul__Alai::after {
     background-image: url(https://grundoscafe.b-cdn.net/items/hopso_blue.gif)
@@ -754,13 +745,10 @@ html {
     background-image: url(https://grundoscafe.b-cdn.net/items/ona_pirate.gif)
     }
 .ul__Toth img {
-    content: url(https://i.imgur.com/7GvzKPj.png)
+    content: url(https://images2.imgbox.com/3d/f4/GLzRuV6q_o.png)
     }
 .ul__Toth::after {
     background-image: url(https://grundoscafe.b-cdn.net/items/felinx_green.gif)
-    }
-.ul__Judes img {
-    content: url(https://i.imgur.com/H12jM5s.png)
     }
 .ul__Judes::after {
     background-image: url(https://grundoscafe.b-cdn.net/items/meowclops_pink.gif)
