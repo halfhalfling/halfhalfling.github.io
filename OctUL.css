@@ -342,9 +342,6 @@ html {
 .starbuck img {
     width: 150px
     }
-.ul__Codex img, .ul__Vanasa img {
-    content: url(https://images2.imgbox.com/87/b7/iTYpJqoa_o.png)
-    }
 .ul__Codex::after {
     background-image: url(https://grundoscafe.b-cdn.net/items/harris_robot.gif)
     }
