@@ -342,6 +342,9 @@ html {
 .starbuck img {
     width: 150px
     }
+.down img {
+    margin-top: 3px;
+}
 .ul__Codex::after {
     background-image: url(https://grundoscafe.b-cdn.net/items/harris_robot.gif)
     }
