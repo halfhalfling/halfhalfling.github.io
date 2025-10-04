@@ -9,7 +9,7 @@ body {
     justify-content: center;
     scrollbar-width: none
     }
-@media screen and (max-width: 959px) {
+@media only screen and (max-width: 992px) {
     body {
         background-position: top left
         }
