@@ -37,12 +37,23 @@ html {
     font-size: 0;
     right: 0;
     left: 0;
-    margin-top: -130px;
-    margin-bottom: -200px;
+    margin-top: 100px;
+    margin-bottom: -80px;
     margin-left: auto;
     margin-right: auto;
-    width: 955px;
+    width: 480px;
     content: url(https://images2.imgbox.com/e4/ef/8vXI5T5C_o.png)
+    }
+.header2 {
+  position: relative;
+    top: -293px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-image: url(https://images2.imgbox.com/44/61/BRFEx1AB_o.gif);
+    width: 200px;
+    height: 200px;
+    margin-bottom: -200px;
     }
 #userLookupDesc {
     background-color: #fff;
