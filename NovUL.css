@@ -10,8 +10,11 @@ body {
     scrollbar-width: none
     }
 @media screen and (max-width: 959px) {
-body {
-    background-image: url(https://images2.imgbox.com/e0/a7/FPvHLnoR_o.jpg);
+    body {
+        background-image: url(https://images2.imgbox.com/e0/a7/FPvHLnoR_o.jpg)
+        }
+    #userLookupContent {
+        margin-left: 50px
         }
     }
 html {
@@ -45,7 +48,7 @@ html {
     content: url(https://images2.imgbox.com/e4/ef/8vXI5T5C_o.png)
     }
 .header2 {
-  position: relative;
+    position: relative;
     top: -293px;
     margin-left: auto;
     margin-right: auto;
@@ -53,7 +56,7 @@ html {
     background-image: url(https://images2.imgbox.com/44/61/BRFEx1AB_o.gif);
     width: 200px;
     height: 200px;
-    margin-bottom: -200px;
+    margin-bottom: -200px
     }
 #userLookupDesc {
     background-color: #fff;
@@ -75,12 +78,11 @@ html {
     color: #95E2FE
     }
 #userLookupInfo {
-    display: flex;
-    align-content: start;
-    align-items: start;
+    display: grid;
+    grid-template-columns: 1fr;
     background-color: #fff;
     box-shadow: 0 1px 20px 0 #fff;
-    background-image: url(https://images2.imgbox.com/66/f0/VropBlJO_o.png);
+    background-image: url(https://images2.imgbox.com/3a/d3/8X09nZuK_o.png);
     background-repeat: no-repeat;
     background-position: bottom right;
     color: #1C53A5;
@@ -104,13 +106,13 @@ html {
     height: 0
     }
 #userLookupShield {
-    width: 200px
+    display: none
     }
 #userLookupShield img {
     display: none
     }
 #userLookupCollections {
-    flex-direction: row;
+    flex-direction: column;
     height: auto
     }
 .ul__collection, .ul__avatars {
@@ -124,6 +126,12 @@ html {
     }
 .ul--avatarstext, .ul--stampstext {
     font-size: 10px
+    }
+.ul--guilds {
+    margin-left: 320px;
+    margin-top: -239px;
+    margin-bottom: 130px;
+    width: 340px
     }
 #userLookupLinks {
     width: 660px;
@@ -254,7 +262,7 @@ html {
     }
 #siteTrophiesList {
     background-color: #fff;
-        box-shadow: 0 1px 20px 0 #fff;
+    box-shadow: 0 1px 20px 0 #fff;
     color: #472174;
     font-size: 10px;
     border-radius: 10px;
@@ -317,8 +325,8 @@ html {
     width: 150px
     }
 .down img {
-    margin-top: 3px;
-}
+    margin-top: 3px
+    }
 .ul__Codex img {
     content: url(https://images2.imgbox.com/ef/be/4DOLMQrw_o.png)
     }
