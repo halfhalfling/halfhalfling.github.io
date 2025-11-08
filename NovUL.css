@@ -1,10 +1,10 @@
 @import url(https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap);
 body {
     background: #000;
-    background-image: url(https://images2.imgbox.com/46/1f/bm8ZjSg4_o.jpg);
+    background-image: url(https://images2.imgbox.com/8a/a7/B8ebztoq_o.jpg);
     background-attachment: fixed;
     background-size: cover;
-    background-position: top center;
+    background-position: bottom center;
     display: flex;
     justify-content: center;
     scrollbar-width: none
@@ -69,13 +69,13 @@ html {
     margin-top: 100px
     }
 #userLookupDesc a {
-    color: #F27EF9;
+    color: #d399e3;
     font-family: "Poetsen One", serif;
     font-size: 24px;
     font-weight: normal
     }
 #userLookupDesc a:hover, #userLookupInfo a:hover {
-    color: #95E2FE
+    color: #89C9F9
     }
 #userLookupInfo {
     display: grid;
@@ -92,7 +92,7 @@ html {
     padding: 10px
     }
 #userLookupInfo a {
-    color: #F27EF9;
+    color: #d399e3;
     font-size: 16px;
     font-family: "Poetsen One", serif;
     letter-spacing: 0.1em
@@ -172,22 +172,22 @@ html {
     content: url(https://images.neopets.com/items/stamp_25thanni_shoyru.gif)
     }
 .ul--tradesimg {
-    content: url(https://images.neopets.com/items/3h0fkba47g.gif)
+    content: url(https://grundoscafe.b-cdn.net/items/spardel_8bit.gif)
     }
 .ul--auctionsimg {
-    content: url(https://images.neopets.com/items/0lja5443ij.gif)
+    content: url(https://grundoscafe.b-cdn.net/items/short_fuse_8bit.gif)
     }
 .ul--wishlistimg {
-    content: url(https://images.neopets.com/items/a75b5k999a.gif)
+    content: url(https://grundoscafe.b-cdn.net/items/8bit_floud.gif)
     }
 .ul--scoresimg {
-    content: url(https://images.neopets.com/items/e0d5e1fd7b.gif)
+    content: url(https://grundoscafe.b-cdn.net/items/snowickle_8bit.gif)
     }
 .ul--neomailimg {
-    content: url(https://images.neopets.com/items/69bigi1h8i.gif)
+    content: url(https://grundoscafe.b-cdn.net/items/gathow_8bit.gif)
     }
 .ul--neofriendimg {
-    background-image: url(https://images.neopets.com/items/1cbhb4k32f.gif);
+    background-image: url(https://grundoscafe.b-cdn.net/items/cirrus_8bit.gif);
     background-repeat: no-repeat;
     background-position: center;
     object-position: -9999px
@@ -203,7 +203,7 @@ html {
     text-align: center;
     text-transform: none;
     justify-content: center;
-    color: #F27EF9;
+    color: #d399e3;
     font-family: "Poetsen One", serif;
     font-weight: normal !important;
     font-size: 24px
@@ -227,7 +227,7 @@ html {
     color: #35185B
     }
 .ul--petname:hover {
-    color: #7FF6F4
+    color: #89C9F9
     }
 .ul__pet {
     padding: auto
@@ -315,7 +315,7 @@ html {
     transition: all 1s ease
     }
 #nav a:hover {
-    color: #67FFFF;
+    color: #89C9F9;
     text-shadow: 0 0 5px #fff
     }
 .starbuck {
@@ -771,7 +771,13 @@ html {
 .ul__Bonnett::after {
     background-image: url(https://grundoscafe.b-cdn.net/items/kadoatie_ghostly.gif)
     }
-.ul__Suey::after, .ul__10mg::after, .ul__Wooded::after, .ul__Bobb::after, .ul__Barack::after, .ul__Gorot::after, .ul__Soliz::after, .ul__Dette::after, .ul__Timm::after, .ul__TSA::after, .ul__Juicille::after, .ul__LT::after, .ul__Keah::after, .ul__Baltasar::after, .ul__Gowrie::after, .ul__Syril::after, .ul__Selle::after, .ul__Roxi::after, .ul__Golb::after, .ul__Ortiz::after, .ul__Zigs::after, .ul__Leysa::after, .ul__Goomie::after, .ul__Quine::after, .ul__Calyn::after, .ul__Pena::after, .ul__Gadot::after, .ul__Eldric::after, .ul__Rowley::after, .ul__Brione::after, .ul__Delmar::after, .ul__Klip::after, .ul__TK::after, .ul__Cubit::after, .ul__Vorm::after, .ul__Korbyn::after, .ul__Germa::after, .ul__Mewie::after, .ul__Puccio::after, .ul__Breaker::after, .ul__Gaye::after, .ul__Tol::after, .ul__Kaster::after, .ul__Mosley::after, .ul__Auge::after, .ul__Cosme::after, .ul__Gor::after, .ul__Pella::after, .ul__Alta::after, .ul__Sumner::after, .ul__Koshu::after, .ul__Jain::after, .ul__Qin::after, .ul__Iesha::after, .ul__Esse::after, .ul__Bailee::after, .ul__Cai::after, .ul__Buena::after, .ul__Coby::after, .ul__Aubry::after, .ul__Caly::after, .ul__Alix::after, .ul__Cruz::after, .ul__IQ::after, .ul__Adira::after, .ul__Faber::after, .ul__Daya::after, .ul__Bett::after, .ul__Kidd::after, .ul__Roslin::after, .ul__Kayte::after, .ul__Clea::after, .ul__Teah::after, .ul__Adria::after, .ul__Bev::after, .ul__Shae::after, .ul__Bix::after, .ul__Razi::after, .ul__Lell::after, .ul__Krys::after, .ul__Davey::after, .ul__Starbuck::after, .ul__Kilo::after, .ul__Helo::after, .ul__KC::after, .ul__Expy::after, .ul__Bixby::after, .ul__Repo::after, .ul__Estela::after, .ul__Codex::after, .ul__Vanasa::after, .ul__RC::after, .ul__M8::after, .ul__Muti::after, .ul__Talan::after, .ul__Fizzed::after, .ul__Zapata::after, .ul__Footsie::after, .ul__Lall::after, .ul__Aniel::after, .ul__Ranier::after, .ul__Camrae::after, .ul__Aristo::after, .ul__Westin::after, .ul__Elowe::after, .ul__Matieu::after, .ul__Beril::after, .ul__Aubert::after, .ul__Tid::after, .ul__Hawley::after, .ul__Belzer::after, .ul__Erol::after, .ul__Yonas::after, .ul__Kepley::after, .ul__Rymer::after, .ul__Dembry::after, .ul__Eide::after, .ul__Winchel::after, .ul__Alai::after, .ul__Mells::after, .ul__Liah::after, .ul__Alacran::after, .ul__Lirana::after, .ul__Noette::after, .ul__Soffy::after, .ul__Poogi::after, .ul__Toth::after, .ul__Judes::after, .ul__Andora::after, .ul__Fricke::after, .ul__Cascady::after, .ul__Gnut::after, .ul__Yiu::after, .ul__Heko::after, .ul__Bandy::after, .ul__Eneris::after, .ul__Elosha::after, .ul__Irelyn::after, .ul__Bonnett::after {
+.ul__Zweek::after {
+    background-image: urlhttps://grundoscafe.b-cdn.net/items/navibot_pink.gif)
+    }
+.ul__Dathan::after {
+    background-image: url(https://grundoscafe.b-cdn.net/items/swabby_maraquan.gif)
+    }
+.ul__Suey::after, .ul__10mg::after, .ul__Wooded::after, .ul__Bobb::after, .ul__Barack::after, .ul__Gorot::after, .ul__Soliz::after, .ul__Dette::after, .ul__Timm::after, .ul__TSA::after, .ul__Juicille::after, .ul__LT::after, .ul__Keah::after, .ul__Baltasar::after, .ul__Gowrie::after, .ul__Syril::after, .ul__Selle::after, .ul__Roxi::after, .ul__Golb::after, .ul__Ortiz::after, .ul__Zigs::after, .ul__Leysa::after, .ul__Goomie::after, .ul__Quine::after, .ul__Calyn::after, .ul__Pena::after, .ul__Gadot::after, .ul__Eldric::after, .ul__Rowley::after, .ul__Brione::after, .ul__Delmar::after, .ul__Klip::after, .ul__TK::after, .ul__Cubit::after, .ul__Vorm::after, .ul__Korbyn::after, .ul__Germa::after, .ul__Mewie::after, .ul__Puccio::after, .ul__Breaker::after, .ul__Gaye::after, .ul__Tol::after, .ul__Kaster::after, .ul__Mosley::after, .ul__Auge::after, .ul__Cosme::after, .ul__Gor::after, .ul__Pella::after, .ul__Alta::after, .ul__Sumner::after, .ul__Koshu::after, .ul__Jain::after, .ul__Qin::after, .ul__Iesha::after, .ul__Esse::after, .ul__Bailee::after, .ul__Cai::after, .ul__Buena::after, .ul__Coby::after, .ul__Aubry::after, .ul__Caly::after, .ul__Alix::after, .ul__Cruz::after, .ul__IQ::after, .ul__Adira::after, .ul__Faber::after, .ul__Daya::after, .ul__Bett::after, .ul__Kidd::after, .ul__Roslin::after, .ul__Kayte::after, .ul__Clea::after, .ul__Teah::after, .ul__Adria::after, .ul__Bev::after, .ul__Shae::after, .ul__Bix::after, .ul__Razi::after, .ul__Lell::after, .ul__Krys::after, .ul__Davey::after, .ul__Starbuck::after, .ul__Kilo::after, .ul__Helo::after, .ul__KC::after, .ul__Expy::after, .ul__Bixby::after, .ul__Repo::after, .ul__Estela::after, .ul__Codex::after, .ul__Vanasa::after, .ul__RC::after, .ul__M8::after, .ul__Muti::after, .ul__Talan::after, .ul__Fizzed::after, .ul__Zapata::after, .ul__Footsie::after, .ul__Lall::after, .ul__Aniel::after, .ul__Ranier::after, .ul__Camrae::after, .ul__Aristo::after, .ul__Westin::after, .ul__Elowe::after, .ul__Matieu::after, .ul__Beril::after, .ul__Aubert::after, .ul__Tid::after, .ul__Hawley::after, .ul__Belzer::after, .ul__Erol::after, .ul__Yonas::after, .ul__Kepley::after, .ul__Rymer::after, .ul__Dembry::after, .ul__Eide::after, .ul__Winchel::after, .ul__Alai::after, .ul__Mells::after, .ul__Liah::after, .ul__Alacran::after, .ul__Lirana::after, .ul__Noette::after, .ul__Soffy::after, .ul__Poogi::after, .ul__Toth::after, .ul__Judes::after, .ul__Andora::after, .ul__Fricke::after, .ul__Cascady::after, .ul__Gnut::after, .ul__Yiu::after, .ul__Heko::after, .ul__Bandy::after, .ul__Eneris::after, .ul__Elosha::after, .ul__Irelyn::after, .ul__Bonnett::after, .ul__Zweek::after, .ul__Dathan::after {
     background-size: 50px 50px;
     display: block;
     margin-left: auto;
