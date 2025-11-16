@@ -11,7 +11,8 @@ body {
     }
 @media screen and (max-width: 959px) {
     body {
-        background-image: url(https://images2.imgbox.com/1a/5f/L3W8nPql_o.jpg)
+        background-image: url(https://images2.imgbox.com/1a/5f/L3W8nPql_o.jpg);
+        background-position: top left;
         }
     #userLookupContent {
         margin-left: 50px
