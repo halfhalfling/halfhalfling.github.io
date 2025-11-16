@@ -48,9 +48,8 @@ html {
     content: url(https://images2.imgbox.com/36/54/Dgys2iVF_o.png)
     }
 #userLookupDesc {
-    background-color: #000;
-    box-shadow: 0 1px 20px 0 #000;
-    color: #fff;
+    background-color: #fff;
+    color: #6f301b;
     font-size: 12px;
     border-radius: 10px;
     width: 660px;
@@ -69,12 +68,11 @@ html {
 #userLookupInfo {
     display: grid;
     grid-template-columns: 1fr;
-    background-color: #000;
-    box-shadow: 0 1px 20px 0 #000;
-    background-image: url();
+    background-color: #fff;
+    background-image: url(https://images2.imgbox.com/42/c2/uK6ruD3G_o.png);
     background-repeat: no-repeat;
     background-position: bottom right;
-    color: #fff;
+    color: #6f301b;
     font-size: 12px;
     width: 660px;
     border-radius: 10px;
@@ -124,8 +122,7 @@ html {
     }
 #userLookupLinks {
     width: 660px;
-    background-color: #000;
-    box-shadow: 0 1px 20px 0 #000;
+    background-color: #fff;
     border-radius: 10px;
     padding: 10px
     }
@@ -198,8 +195,7 @@ html {
     }
 #userPetList {
     width: 670px;
-    background-color: #000;
-    box-shadow: 0 1px 20px 0 #000;
+    background-color: #fff;
     border-radius: 10px;
     padding-left: 5px;
     padding-right: 5px;
@@ -221,7 +217,6 @@ html {
     padding: auto
     }
 .ul__pet img {
-    background-color: #fff;
     width: 130px;
     height: 130px;
     opacity: 1;
@@ -249,12 +244,11 @@ html {
     }
 #siteTrophiesList img, #gameTrophiesList img {
     width: 80px;
-    border-radius: 10px;
+  border-radius: 10px;
     }
 #siteTrophiesList {
-    background-color: #000;
-    box-shadow: 0 1px 20px 0 #000;
-    color: #fff;
+    background-color: #fff;
+    color: #6f301b;
     font-size: 10px;
     border-radius: 10px;
     width: 660px;
@@ -264,9 +258,8 @@ html {
     font-size: 10px
     }
 #gameTrophiesList {
-    background-color: #000;
-    box-shadow: 0 1px 20px 0 #000;
-    color: #fff;
+    background-color: #fff;
+    color: #6f301b;
     font-size: 10px;
     border-radius: 10px;
     width: 660px;
@@ -286,7 +279,7 @@ html {
     font-family: "Poetsen One", serif;
     font-size: 20px;
     font-weight: normal;
-    color: #ff9116;
+    color: #fff;
     background-color: rgba(0, 0, 0, 0.4);
     top: 0;
     left: 0;
@@ -300,14 +293,14 @@ html {
     justify-content: space-around
     }
 #nav a {
-    color: #ff9116;
+    color: #fff;
     font-weight: normal;
     text-decoration: none;
     transition: all 1s ease
     }
 #nav a:hover {
-    color: #fff;
-    text-shadow: 0 0 5px #fff
+    color: #ff9116;
+    text-shadow: 0 0 5px #ff9116
     }
 .starbuck {
     float: left
