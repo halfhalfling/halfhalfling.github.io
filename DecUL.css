@@ -209,7 +209,8 @@ html {
     font-family: "Poetsen One", serif;
     font-weight: normal;
     font-size: 20px;
-    color: #67A6F1
+    color: #67A6F1;
+    transition: all 1s ease
     }
 .ul--petname:hover {
     color: #FFCEFF
@@ -220,7 +221,8 @@ html {
 .ul__pet img {
     width: 130px;
     height: 130px;
-    opacity: 1
+    opacity: 1;
+    transition: all 1s ease
     }
 .ul__pet img:hover {
     opacity: 0.4;
