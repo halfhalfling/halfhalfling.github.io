@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
 body {
-    background: #000;
+    background: #FF72FF;
     background-image: url(https://images2.imgbox.com/a1/5a/1mPG4UJU_o.jpg);
     background-attachment: fixed;
     background-size: cover;
@@ -12,6 +12,7 @@ body {
 @media screen and (max-width: 959px) {
 body {
     background-image: url(https://images2.imgbox.com/a8/f5/DaChjHRE_o.jpg);
+    background-position: top left;
         }
     }
 html {
