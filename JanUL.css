@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap);
+@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
 body {
     background: #000;
     background-image: url(https://images2.imgbox.com/a1/5a/1mPG4UJU_o.jpg);
@@ -11,7 +11,7 @@ body {
     }
 @media screen and (max-width: 959px) {
 body {
-    background-image: url(https://images2.imgbox.com/9f/6a/JZlpl7ud_o.jpg);
+    background-image: url(https://images2.imgbox.com/a8/f5/DaChjHRE_o.jpg);
         }
     }
 html {
@@ -56,7 +56,7 @@ html {
     }
 #userLookupDesc a {
     color: #FF84FF;
-    font-family: "Poetsen One", serif;
+    font-family: "Titan One", sans-serif;
     font-size: 24px;
     font-weight: normal
     }
@@ -79,7 +79,7 @@ html {
 #userLookupInfo a {
     color: #FF84FF;
     font-size: 16px;
-    font-family: "Poetsen One", serif;
+    font-family: "Titan One", sans-serif;
     letter-spacing: 0.1em
     }
 #userLookupText {
@@ -189,7 +189,7 @@ html {
     text-transform: none;
     justify-content: center;
     color: #FF84FF;
-    font-family: "Poetsen One", serif;
+    font-family: "Titan One", sans-serif;
     font-weight: normal !important;
     font-size: 24px
     }
@@ -206,7 +206,7 @@ html {
     margin-bottom: 0
     }
 .ul--petname {
-    font-family: "Poetsen One", serif;
+    font-family: "Titan One", sans-serif;
     font-weight: normal;
     font-size: 20px;
     color: #67A6F1;
