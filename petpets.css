@@ -38,6 +38,9 @@
     content: url(https://images2.imgbox.com/ba/8f/0WbWhNsz_o.png)
     }
 .ul__Bix::after {
+    background-image: url(https://grundoscafe.b-cdn.net/items/bowla_baby.gif)
+    }
+.ul__Erse::after {
     background-image: url(https://grundoscafe.b-cdn.net/items/pet_bluna.gif)
     }
 .ul__Shae img {
