@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
 body {
      background: #F4DDC8;
-    background-image: url(https://images2.imgbox.com/d0/ec/ZOt82grw_o.jpg);
+    background-image: url(https://raw.githubusercontent.com/halfhalfling/premades/refs/heads/main/rainbowflowers.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-position: top center;
@@ -37,7 +37,7 @@ html {
     margin-left: auto;
     margin-right: auto;
     width: 527px;
-    content: url(https://images2.imgbox.com/ec/89/TGmYNmGt_o.png)
+    content: url(https://raw.githubusercontent.com/halfhalfling/premades/refs/heads/main/cybunnyULheader2.png)
     }
 #userLookupDesc {
     background-color: #fff;
@@ -62,7 +62,7 @@ html {
     align-content: start;
     align-items: start;
     background-color: #fff;
-    background-image: url(https://images2.imgbox.com/b5/ce/s9nNQ4dw_o.png);
+    background-image: url(https://raw.githubusercontent.com/halfhalfling/premades/refs/heads/main/cybunnycorner3.png);
     background-repeat: no-repeat;
     background-position: bottom right;
     color: #9C9C9C;
