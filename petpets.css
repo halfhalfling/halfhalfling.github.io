@@ -1,3 +1,12 @@
+.ul__Codex img {
+    content: url(https://raw.githubusercontent.com/halfhalfling/premades/refs/heads/main/codexbymaze.png);
+    }
+.ul__Alphe img {
+    content: url(https://raw.githubusercontent.com/halfhalfling/premades/refs/heads/main/alphesmall.png)
+    }
+.ul__Dika img {
+    content: url(https://raw.githubusercontent.com/halfhalfling/premades/refs/heads/main/newdikadesignsmall.png)
+    }
 .ul__Codex::after {
     background-image: url(https://grundoscafe.b-cdn.net/items/harris_robot.gif)
     }
